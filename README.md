@@ -21,11 +21,11 @@
 ## UC 1.03 - Alarm bei zu hoher Herzfrequenz:
 Dieser Usecase beschreibt die Ausgabe einer Warnung beim Überschreiten eines vorgegebenen Maximalpuls.
 
-### User-Story:
-* Als Diagnostiker:in möchte ich bei Überschreiten eines Maximalpulses oder Abweichen von der vorgegeben Leistung eine Warnung angezeigt bekommen, um den Test abbrechen zu können
-* Als Probant:in möchte ich
-* Als Wissenschafter:in möchte ich
+### User-Story (siehe Kanban-Board):
+* Als Diagnostiker:in möchte ich bei Überschreiten eines Maximalpulses oder Abweichen von der vorgegeben Leistung eine Warnung angezeigt bekommen, um den Test abbrechen zu können.
+* Als Probant:in möchte ich beim Abweichen der vorgegeben Leistung eine Meldung angezeigt bekommen.
+* Als Wissenschafter:in möchte ich die aufgezeichneten Werte eines abgebrochenen Tests als ungültige Werte erhalten.
   
-## :trollface:Erstellt von:
+## :trollface: Erstellt von:
 Koutny Amelie, Sturm Felix, Holzknecht Rene
 
