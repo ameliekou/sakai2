@@ -10,16 +10,22 @@
 * Die Datei ist eine Markdown-Datei, die Sie mit dieser Anleitung formatieren können
 * Gehen Sie auf Projects und Link a project erstellen Sie ein neues Team Planning Projekt
 
+* Legen Sie drei User Stories für den Use Case als Karte auf dem Kanban-Board an und weisen Sie diesen einer Person zu
+* Als Abgabe reichen Sie den Link zu Ihrem Repository ein
+* Wenn Sie sich bei github als Studierende registrieren, können Sie später z.B. auch GitHub Copilot nutzen
+
 
 ### Use-Case Diagramm:
 <img width="692" alt="Bildschirmfoto 2024-03-19 um 13 33 43" src="https://github.com/ameliekou/sakai2/assets/163856592/04edffaf-8c20-4eef-8a34-1c64fbed583d">
 
-### User-Story:
-Als Diagnostiker:in möchte ich bei Überschreiten eines Maximalpulses oder Abweichen von der vorgegeben Leistung eine Warnung angezeigt bekommen, um den Test abbrechen zu können
-
 ## UC 1.03 - Alarm bei zu hoher Herzfrequenz:
 Dieser Usecase beschreibt die Ausgabe einer Warnung beim Überschreiten eines vorgegebenen Maximalpuls.
 
-## Sturiende:
+### User-Story:
+* Als Diagnostiker:in möchte ich bei Überschreiten eines Maximalpulses oder Abweichen von der vorgegeben Leistung eine Warnung angezeigt bekommen, um den Test abbrechen zu können
+* Als Probant:in möchte ich
+* Als Wissenschafter:in möchte ich
+  
+## Erstellt von:
 Koutny Amelie, Sturm Felix, Holzknecht Rene
 
