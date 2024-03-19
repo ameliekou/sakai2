@@ -27,5 +27,5 @@ Dieser Usecase beschreibt die Ausgabe einer Warnung beim Überschreiten eines vo
 * Als Wissenschafter:in möchte ich die aufgezeichneten Werte eines abgebrochenen Tests als ungültige Werte erhalten.
   
 ## :trollface: Erstellt von:
-Koutny Amelie, Sturm Felix, Holzknecht Rene
+Koutny Amelie, Sturm Felix, Holzknecht Rene 
 
