@@ -26,6 +26,6 @@ Dieser Usecase beschreibt die Ausgabe einer Warnung beim Überschreiten eines vo
 * Als Probant:in möchte ich
 * Als Wissenschafter:in möchte ich
   
-## Erstellt von:
+## :trollface:Erstellt von:
 Koutny Amelie, Sturm Felix, Holzknecht Rene
 
